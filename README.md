@@ -16,4 +16,7 @@ For Image Retrieval used feature extraction from VGG-16 model. For extracting fe
 Then fed train images to model and compared its feature vector with all feature vectors. 
 Used cosine distance to find similarity between feature vectors and got 10 similar images.
 
-Screenshot of one image and its similar 10 images
+Screenshot of one image and its similar 10 images : 
+
+
+![image](https://user-images.githubusercontent.com/52560045/170842018-1e51daca-ea4f-40a5-a0c6-40ca4e7a7617.png)
