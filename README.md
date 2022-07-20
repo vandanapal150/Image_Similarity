@@ -1,5 +1,3 @@
-Flixstock Visual Search Assignment
-
 Problem Statement: Finding Visually Similar Garments for an Input Garment
 Garments in the fashion domain can be of multiple shapes, sizes, and colors. Finding garments similar to
 each other is an important feature used by e-commerce websites to show recommendations to its users.
